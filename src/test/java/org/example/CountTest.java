@@ -2,10 +2,10 @@ package org.example;
 
 import org.junit.jupiter.api.Test;
 
-import static org.example.Main.countMore;
+import static org.example.Count.countMore;
 import static org.junit.jupiter.api.Assertions.*;
 
-class MainTest {
+class CountTest {
     @Test
     void countMoreTest () {
         int[] prices = {13, 17, 19, 25, 25, 25, 25, 25, 25, 27, 30};

@@ -1,6 +1,6 @@
 package org.example;
 
-public class Main {
+public class Count {
 
     public static void main(String[] args) {
         int[] prices = {13, 17, 19, 25, 25, 25, 25, 25, 25, 27, 30};
